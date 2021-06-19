@@ -17,3 +17,6 @@
 1. Clone the repository 
 2. System should have python3 installed and added to the path. 
 3. run main.py (python main.py)
+
+## Running tests
+run tests.py (python tests.py) 
